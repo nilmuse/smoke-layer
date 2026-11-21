@@ -1,17 +1,17 @@
 {
   "name": "smoke-layer",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A lightweight animated smoke layer for HTML elements using Canvas 2D",
-  "author": "ux-ui.pro",
+  "author": "Maxim <m@nilmuse.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ux-ui-pro/smoke-layer.git"
+    "url": "git+https://github.com/nilmuse/smoke-layer.git"
   },
   "bugs": {
-    "url": "https://github.com/ux-ui-pro/smoke-layer/issues"
+    "url": "https://github.com/nilmuse/smoke-layer/issues"
   },
-  "homepage": "https://github.com/ux-ui-pro/smoke-layer",
+  "homepage": "https://github.com/nilmuse/smoke-layer",
   "sideEffects": false,
   "type": "module",
   "packageManager": "npm@10.9.3",
